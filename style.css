@@ -81,14 +81,14 @@ input {
   -webkit-appearance: none;
   width: 64px;
   height: 64px;
-  background: #968080;
+  background: #8e8d8d;
 
   border: 2px solid #e2dbdb;
   border-radius: 8px;
 }
 /*pseudo-selector*/
 input:checked {
-  background: #2d0990;
+  background: #5e2ce6;
 
   border: 2px solid #27272a;
 }
